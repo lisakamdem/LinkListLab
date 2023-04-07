@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-//Test github
-
 namespace LinkListLab
 {
     internal class LinkedList
